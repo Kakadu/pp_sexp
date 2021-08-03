@@ -1,6 +1,6 @@
 (lang dune 2.8)
 (generate_opam_files true)
-
+(name pp_sexp)
 
 (source (github Kakadu/pp_sexp))
 (license GPL)

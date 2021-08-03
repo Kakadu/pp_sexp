@@ -9,3 +9,8 @@ Use `pp_sexp -h` for details.
   eee
   fff)
 ```
+
+##### Installation
+
+
+    opam pin add https://github.com/Kakadu/pp_sexp --yes
