@@ -11,6 +11,6 @@ Use `pp_sexp -h` for details.
 ```
 
 ##### Installation
+- ocaml >= 4.03.0
 
-
-    opam pin add https://github.com/Kakadu/pp_sexp --yes
+    opam pin add https://github.com/Kakadu/pp_sexp.git --yes
