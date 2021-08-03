@@ -1,0 +1,4 @@
+(executable
+ (name pp_sexp)
+ (public_name pp_sexp)
+ (libraries sexplib))
